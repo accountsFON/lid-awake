@@ -14,7 +14,22 @@ Built for anyone who runs AI agents like Claude on a Mac and wants to close the 
 - **Built-in safety:** normal sleep comes back by itself when the timer ends, when the battery drops to 15% unplugged, or when the app quits.
 - **Help built in:** a Help window in the menu explains every option.
 
-Works on any Mac running macOS 13 or newer, Apple Silicon or Intel.
+## Compatibility
+
+| Requirement | Details |
+|---|---|
+| **macOS** | 13 Ventura or newer |
+| **Chips** | Apple Silicon (M1 and later) and Intel, in one universal app |
+| **Best on** | MacBooks. On a Mac mini, iMac, or Mac Studio there's no lid, so it simply keeps the Mac awake |
+| **Account** | An admin account. Turning it on changes a system power setting, so macOS asks for an admin password |
+| **Tested on** | MacBook Pro 16-inch, M4 Max, macOS 26.5.1 (October 2026) |
+
+A few things to know before you install:
+
+- **Intel Macs:** the app is built for Intel too, but so far it has only been tested on Apple Silicon. Reports from Intel owners are welcome in [Issues](https://github.com/accountsFON/lid-awake/issues).
+- **Work or school Macs:** Lid Awake needs an admin password to turn on. If your company manages your Mac and you don't have admin rights, ask your IT team first.
+- **Master Power Mode and future macOS updates:** the virtual monitor and the instant lock use private Apple system features that apps like DeskPad and BetterDisplay also rely on. A future macOS update could change them. The core features (staying awake, timers, safety) use standard system tools.
+- **Unsigned download:** the app is free and isn't notarized by Apple, so macOS warns about an unidentified developer when you download it by hand. The one-line install below avoids the warning.
 
 ## Install
 
