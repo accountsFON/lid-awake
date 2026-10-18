@@ -112,6 +112,12 @@ lid-awake/
 
 Lid Awake was built by **Caleb Cody**, founder and CEO of [Five One Nine Marketing](https://www.fonmarketing.com). Five One Nine is a growth partner for businesses that want a clear marketing strategy, the systems to run it, and AI built into how the work gets done. We build tools like this in-house so a small team can punch well above its weight.
 
+**The team:** Caleb Cody, Founder and CEO · Mollie Huebner, Operations Manager and Creative Director · Julio Aleman, Lead Developer and AI Engineer
+
+**From a client, Zach Goodfellow:**
+
+> "You'll have a hard time finding people more passionate about helping you build your business than Five One Nine."
+
 Your strategy. Your system. Your growth partner. **[Let's talk](https://www.fonmarketing.com/contact)**
 
 ## License
