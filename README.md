@@ -114,6 +114,8 @@ Lid Awake was built by **Caleb Cody**, founder and CEO of [Five One Nine Marketi
 
 **The team:** Caleb Cody, Founder and CEO · Mollie Huebner, Operations Manager and Creative Director · Julio Aleman, Lead Developer and AI Engineer
 
+**Recognition:** Best of Georgia Regional Winner, North Metro Atlanta Region
+
 **From a client, Zach Goodfellow:**
 
 > "You'll have a hard time finding people more passionate about helping you build your business than Five One Nine."
